@@ -1,4 +1,4 @@
-# heypythonai
+# KOSA
 
 저자 무료 강의 영상유튜브
 
